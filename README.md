@@ -15,16 +15,16 @@ Jogo básico da forca construído com a linguagem Python
         <h2>Imagens do projetos</h2>
           <p>As imagens que compõem o projeto</p>
   <figure>
-<img src=" " alt="Escolha a letra"></a>
-<figcaption> </figcaption>
+<img src="https://raw.githubusercontent.com/sbr-rodrigues/jogo-da-forca-1/refs/heads/main/Jogo%20da%20forca%201%20(1).png" alt="Escolha a letra"></a>
+<figcaption>Escolha as letras</figcaption>
    </figure>
  <figure>
-   <img src=" " alt="Letra guardada na mémoria"></a>
-    <figcaption> </figcaption>
+   <img src="https://raw.githubusercontent.com/sbr-rodrigues/jogo-da-forca-1/refs/heads/main/Jogo%20da%20forca%201%20(2).png" alt="Letra guardada na mémoria"></a>
+    <figcaption>As letras são armazenadas</figcaption>
       </figure>
        <figure>
-         <img src=" " alt="Resultado do jogo"></a>
- <figcaption> </figcaption>
+         <img src="https://raw.githubusercontent.com/sbr-rodrigues/jogo-da-forca-1/refs/heads/main/Jogo%20da%20forca%201%20(3).png" alt="Resultado do jogo"></a>
+ <figcaption>Lógica do programa</figcaption>
     </figure>
     </body>
     </html>
